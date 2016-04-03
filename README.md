@@ -1,2 +1,3 @@
-# Nimbus-Vapes.github.io
-Nimbus Vapes Home Page nimbusvapes.com
+# Nimbus Vapes
+Nimbus Vapes Home Page 
+[Nimbus Vapes](http://nimbusvapes.com)
